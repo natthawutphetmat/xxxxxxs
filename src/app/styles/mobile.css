@@ -1,0 +1,33 @@
+header {
+ 
+    background: url('/img/carousel-1.jpg') top right no-repeat;
+    background-attachment: fixed ;
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+.item {
+ 
+    max-width: 400px;
+     margin: 0 auto;
+     z-index: 100;
+   
+}
+
+
+
+
+
+.item img{
+    width: 100%;
+}
+
+
+.Clickitem {
+    background: none;
+    border: none;
+}
+
+
